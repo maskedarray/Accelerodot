@@ -4,6 +4,6 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_gravity="center"
-    android:columnCount="10"
-    android:rowCount="10"
+    android:columnCount="20"
+    android:rowCount="20"
     android:background="@android:color/transparent" />
